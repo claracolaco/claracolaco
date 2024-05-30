@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ricardomdn.ricardomdn" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Oiê!+👋+Tudo+Bem?;+Me+Chamo+Clara+Colaço!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFCBDB&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Oiê!+👋+Tudo+Bem?;+Me+Chamo+Clara+Colaço!;" />
 </h1>
 
 <h3 align="center">Uma apaixonada por Hardware e Sistemas Digitais 💻</h3>
@@ -16,7 +16,7 @@
  
  🌱 Desenvolvendo projetos **Front-end e Back-end**
 
-💬 Me pergunte sobre ****circuitos lógicos, python ou outras coisas [aqui](https://github.com/claracolaco/claracolaco/issues)**
+💬 Me pergunte sobre **circuitos lógicos, python ou outras coisas [aqui](https://github.com/claracolaco/claracolaco/issues)**
  
 📫 Fale comigo em **colacoclara0@gmail.com**
 
