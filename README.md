@@ -41,7 +41,7 @@
 <h2 align="center">⚙️ Linguagens que tenho domíno ⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cplusplus" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
    <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
 </div>
 
