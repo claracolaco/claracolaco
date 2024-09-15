@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ricardomdn.ricardomdn" />
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ricardomdn.ricardomdn" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFCBDB&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Oiê!+👋+Tudo+Bem?;+Me+Chamo+Clara+Colaço!;" />
@@ -33,7 +33,7 @@
   </a>
  <!-- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--  </a>
 </div>
 
  <hr/>
@@ -43,10 +43,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp" />
    <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
-</div>
+<!--</div>
 
 <br/>
-<hr/>
+<hr/> -->
 
 <!-- <hr/>
 
@@ -59,7 +59,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomdn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div> -->
 
-<br/><br/>
+<!--<br/><br/>
 
 <hr/>
 
