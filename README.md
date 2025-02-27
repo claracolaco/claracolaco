@@ -35,7 +35,7 @@
     <picture>
         <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Todos%20Os%20Repositórios-%23CDF7BD?style=for-the-badge&logoColor=ffffff&logo=repo">
 
-    </picture>
+    
 </a>
 </p>
 
