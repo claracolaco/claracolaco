@@ -7,7 +7,6 @@
 </a>
 
 <div>
-    <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/474x/81/5e/ef/815eefd b69dcbc972144ff20d33b1e319.jpg">
 
 - 💻 Desenvolvedora **full-stack**.
 - 🚀 Explorando o mundo do código e criando soluções inovadoras.
