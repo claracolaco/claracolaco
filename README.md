@@ -17,7 +17,7 @@
 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos(https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=F7C2E4&lines=%F0%9F%A4%8D+Repos+Favoritos)" alt="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos(https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=F7C2E4&lines=%F0%9F%A4%8D+Repos+Favoritos" alt="">
 </a>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <!-- Link para o repositório Analise-Grafos-relacionando-a-quantidade-de-registros-de-armas-e-ocorrencias -->
 <a href="https://github.com/claracolaco/Analise-Grafos-relacionando-a-quantidade-de-registros-de-armas-e-ocorrencias">
     <picture>
-        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=claracolaco&repo=Analise-Grafos-relacionando-a-quantidade-de-registros-de-armas-e-ocorrencias&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true">
+        <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=claracolaco&repo=Analise-Grafos-relacionando-a-quantidade-de-registros-de-armas-e-ocorrencias&theme=react&bg_color=F7C2E4FF&title_color=ffffff&border_color=F7B6E9FF&icon_color=ffffff&show_icons=true">
     </picture>
 </a>
 
@@ -33,7 +33,7 @@
 <p align="center"><br>
 <a href="https://github.com/claracolaco?tab=repositories">
     <picture>
-        <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories">
+        <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-F7B6E9FF?style=for-the-badge&logoColor=fff&logo=repo">
     </picture>
 </a>
 </p>
@@ -69,7 +69,7 @@
 
 <!-- Estatísticas gerais -->
 <a href="https://awesome-github-stats.azurewebsites.net/user-stats/claracolaco">
-    <img width="50%" alt="claracolaco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/claracolaco?cardType=github&theme=default&preferLogin=true&Background=FFFFFF&Text=F7C2E4FF&Ring=F7C2E4FF&Border=F7C2E4FF" />
+    <img width="50%" alt="claracolaco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/claracolaco?cardType=github&theme=default&preferLogin=true&Background=FFFFFF&Text=F7C2E4FF&Ring=F7C2E4FF&Border=F7C2E4FF&Icon=CDF7BDFF" />
 </a>
 
 <!-- Streak (contribuições seguidas) -->
