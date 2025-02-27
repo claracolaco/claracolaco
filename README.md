@@ -3,7 +3,7 @@
 ![github-header-image (3)](banner_github.png)
 
 <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);](https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=F7C2E4&separator=%3D&lines=cout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+endl;%3Dprintf(%22Hello%2C+World!%5Cn%22);%3Dprint(%22Hello%2C+World!%22))">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);(https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=F7C2E4&separator=%3D&lines=cout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+endl;%3Dprintf(%22Hello%2C+World!%5Cn%22);%3Dprint(%22Hello%2C+World!%22))">
 </a>
 
 <div>
@@ -17,7 +17,7 @@
 
 
 <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos](https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=F7C2E4&lines=%F0%9F%A4%8D+Repos+Favoritos)" alt="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos(https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=F7C2E4&lines=%F0%9F%A4%8D+Repos+Favoritos)" alt="">
 </a>
 
 <div align="center">
@@ -29,6 +29,7 @@
     </picture>
 </a>
 
+<!-- BOTÃO PARA TODOS OS REPOSITÓRIOS -->
 <p align="center"><br>
 <a href="https://github.com/claracolaco?tab=repositories">
     <picture>
@@ -45,15 +46,15 @@
 <table align="center">
 <tr>
     <td align="center">
-        <img style="width: 90%; max-width: 300px;" src="(https://github.com/user-attachments/assets/20dc073f-2b2f-4d07-8a45-6cd595ef8c7d)"/>
+        <img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/20dc073f-2b2f-4d07-8a45-6cd595ef8c7d"/>
         <br>C++
     </td>
     <td align="center">
-        <img style="width: 90%; max-width: 300px;" src="(https://github.com/user-attachments/assets/d3c04301-ea7f-44f5-afb5-3f1940d7f411)"/>
+        <img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/d3c04301-ea7f-44f5-afb5-3f1940d7f411"/>
         <br>C
     </td>
     <td align="center">
-        <img style="width: 90%; max-width: 300px;" src="(https://github.com/user-attachments/assets/d2e8ad9e-e822-4b68-a579-1d445856abf1)"/>
+        <img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/d2e8ad9e-e822-4b68-a579-1d445856abf1"/>
         <br>Python
     </td>
 </tr>
@@ -64,7 +65,7 @@
 <div align="center">
 
 <!-- Linguagens mais usadas -->
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracolaco&layout=compact&langs_count=6&theme=react&bg_color=FFFFFF&title_color=F7C2E4FF&text_color=000000&border_color=F7C2E4FF" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracolaco&layout=compact&langs_count=6&theme=react&bg_color=FFFFFF&title_color=F7C2E4FF&text_color=000000&border_color=F7C2E4FF&cache_seconds=3600" />
 
 <!-- Estatísticas gerais -->
 <a href="https://awesome-github-stats.azurewebsites.net/user-stats/claracolaco">
