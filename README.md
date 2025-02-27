@@ -33,7 +33,7 @@
 <p align="center"><br>
 <a href="https://github.com/claracolaco?tab=repositories">
     <picture>
-        <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-F7B6E9FF?style=for-the-badge&logoColor=fff&logo=repo">
+        <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-CDF7BDFF?style=for-the-badge&logoColor=fff&logo=repo">
     </picture>
 </a>
 </p>
